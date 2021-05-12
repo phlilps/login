@@ -1,0 +1,21 @@
+先到gitee建立分支
+
+git pull 拉出分支 进入分支
+
+git checkout 分支名字 
+
+git status 查看状态
+
+
+
+
+
+
+条件代码
+git status  查看项目
+
+git add . 添加到本地仓库
+
+git commit -m "login init" 项目提交
+
+git push 添加上仓库
